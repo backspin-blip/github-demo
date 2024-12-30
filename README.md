@@ -17,3 +17,6 @@ Welcome to the **GitHub Demo** repository! This project serves as an example of 
 - Showcases how to create issues and pull requests
 - Includes example files and directories for practice
 - Provides a README template for new projects
+
+# PyCharm Title
+This is a PyCharm example
